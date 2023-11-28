@@ -2,7 +2,8 @@
 
 ## 📝 Sobre
 
-X: Aprenda Multiplicação! Este é um aplicativo desktop desenvolvido para tornar o aprendizado da multiplicação uma experiência interativa e lúdica, Seu foco principal é atender às crianças, proporcionando uma abordagem envolvente e divertida para o desenvolvimento das habilidades matemáticas.
+X: Aprenda Multiplicação! Este é um aplicativo desktop desenvolvido para tornar o aprendizado da multiplicação uma experiência interativa e lúdica. Seu foco principal é auxiliar as crianças, proporcionando uma abordagem envolvente e divertida para o aprendizado das habilidades matemáticas.
+
 
 ## 💻 Desenvolvedores
 
