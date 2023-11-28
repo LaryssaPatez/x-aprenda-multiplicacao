@@ -1,4 +1,4 @@
-<h1 align="center"> X: Aprenda Multiplicação - Projeto Educativo </h1>
+<h1 align="center"> X: Aprenda Multiplicação </h1>
 
 ## 📝 Sobre
 
