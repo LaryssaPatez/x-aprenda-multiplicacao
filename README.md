@@ -22,7 +22,7 @@ Ao clicar no botão "Dicas", você terá acesso a uma página com dicas matemát
 
 ### ✖️ Botão para visualizar tabuada
 
-Ao clicar no botão "Tabuada", você terá acesso a uma aba dedicada contendo informações detalhadas das tabuadas.
+Ao clicar no botão "Tabuada", você terá acesso a uma aba dedicada contendo a tabuada do 1 ao 10.
 
 ## 💾 Tecnologias Utilizadas
 
