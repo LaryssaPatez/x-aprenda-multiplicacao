@@ -1,0 +1,17 @@
+# X: Aprenda Multiplicação - Projeto Educativo
+
+## 📝 Sobre
+
+X: Aprenda Multiplicação! Este é um aplicativo desktop desenvolvido para tornar o aprendizado da multiplicação uma experiência interativa e lúdica, Seu foco principal é atender às crianças, proporcionando uma abordagem envolvente e divertida para o desenvolvimento das habilidades matemáticas.
+
+## 💻 Desenvolvedores
+
+- Gabriel Rocha Guimarães [GitHub](https://github.com/grlgmrs) 
+- Henrique Motta Canho [GitHub](https://github.com/HenriqueCanho) 
+- Laryssa Patez da Silva [GitHub](https://github.com/LaryssaPatez) 
+- Sara Vila Real da Silva [GitHub](https://github.com/saravilareal) 
+
+Aproveite o jogo e divirta-se aprendendo multiplicação!!😊
+
+
+
