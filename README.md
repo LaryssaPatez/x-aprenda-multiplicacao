@@ -1,4 +1,4 @@
-<h1 align="center"> X: Aprenda Multiplicação - Projeto Educativo </h1>
+<h1 align="center"> X: Aprenda Multiplicação </h1>
 
 ## 📝 Sobre
 
@@ -16,11 +16,11 @@ X: Aprenda Multiplicação! Este é um aplicativo desktop desenvolvido para torn
 
 Ao iniciar o jogo, você recebe um total de 10 baterias. Cada uma dessas baterias representa sua vida no jogo. A cada erro cometido, 3 baterias serão retiradas. Se você zerar suas baterias, perderá o jogo.
 
-### 💡Botão de dicas
+### 💡Botão de Dicas
 
 Ao clicar no botão "Dicas", você terá acesso a uma página com dicas matemáticas, incluindo tabuadas e sugestões para operações de divisão.
 
-### ✖️ Botão para visualizar tabuada
+### ✖️ Botão Para Visualizar Tabuada
 
 Ao clicar no botão "Tabuada", você terá acesso a uma aba dedicada contendo a tabuada do 1 ao 10.
 
