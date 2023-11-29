@@ -2,7 +2,13 @@
 
 ## 📝 Sobre
 
-X: Aprenda Multiplicação! Este é um aplicativo desktop desenvolvido para tornar o aprendizado da multiplicação uma experiência interativa e lúdica. Seu foco principal é auxiliar as crianças, proporcionando uma abordagem envolvente e divertida para o aprendizado das habilidades matemáticas.
+X: Aprenda Multiplicação! Este é um aplicativo desktop desenvolvido para tornar o aprendizado da multiplicação uma experiência interativa e lúdica.
+
+Ao iniciar o jogo, o usuário se deparará com um desafio envolvendo um número específico, acompanhado por algumas opções de multiplicação. A proposta é selecionar a opção correta que levará ao número indicado na tela.
+
+Seu foco principal é auxiliar crianças, proporcionando uma abordagem envolvente e divertida para o aprendizado das habilidades matemáticas.
+
+## Screenshots
 
 <div align="center">
 
@@ -48,7 +54,7 @@ Você pode baixar o X para desktop Windows clicando <a href="Build/Instalar X Ap
 
 <th align="center" style="text-align: center;"><a href="https://github.com/LaryssaPatez"><img src="https://avatars.githubusercontent.com/u/132311199?v=4" width="70" style="max-width: 100%;"><br><sub>@laryssapatez</sub></a></th>
 
-<th align="center" style="text-align: center;"><a href="https://github.com/saravilareal"><img src="https://avatars.githubusercontent.com/u/101808264?v=4" width="70" style="max-width: 100%;"><br><sub>@lsaravilareal</sub></a></th>
+<th align="center" style="text-align: center;"><a href="https://github.com/saravilareal"><img src="https://avatars.githubusercontent.com/u/101808264?v=4" width="70" style="max-width: 100%;"><br><sub>@saravilareal</sub></a></th>
 
 </tr>
 </thead>
