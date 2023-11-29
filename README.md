@@ -12,9 +12,9 @@ Seu foco principal é auxiliar crianças, proporcionando uma abordagem envolvent
 
 <div align="center">
 
-<img  style="margin: 3px;" src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Menu.png?raw=true" alt="Print do menu inicial"  width="200">
-<img style="margin: 3px;"src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Jogar.png?raw=true" alt="Print da tela 'jogar'" width="200">
-<img style="margin: 3px;"src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Dicas.png?raw=true" alt="Print do menu inicial" width="200">
+<img  style="margin: 5px;" src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Menu.png?raw=true" alt="Print do menu inicial"  width="200">
+<img style="margin: 5px;"src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Jogar.png?raw=true" alt="Print da tela 'jogar'" width="200">
+<img style="margin: 5px;"src="https://github.com/LaryssaPatez/x-aprenda-multiplicacao/blob/master/Screenshots/Dicas.png?raw=true" alt="Print do menu inicial" width="200">
 
 </div>
 
