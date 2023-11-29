@@ -42,7 +42,7 @@ Ao clicar no botão "Tabuada", você terá acesso a uma aba dedicada contendo a 
 
 Você pode baixar o X para desktop Windows clicando <a href="Build/Instalar X Aprenda Multiplicação.exe" rel="nofollow">aqui.</a>
 
-## 💻 Desenvolvedores
+## 👩‍💻 Desenvolvedores
 
 <table>
 <thead>
