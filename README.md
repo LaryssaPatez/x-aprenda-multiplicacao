@@ -8,7 +8,6 @@ Ao iniciar o jogo, o usuário se deparará com um desafio envolvendo um número 
 
 Seu foco principal é auxiliar crianças, proporcionando uma abordagem envolvente e divertida para o aprendizado das habilidades matemáticas.
 
-## Screenshots
 
 <div align="center">
 
